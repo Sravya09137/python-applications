@@ -51,7 +51,7 @@ python QUIZ-GAME.py
 ```text
 Quiz-Game/
 ├── README.md
-└── quizgame.py
+└── QUIZ-GAME.py
 ```
 
 ## Purpose
