@@ -43,7 +43,7 @@ A command-line quiz application built with Python that allows users to choose a 
 Run the following command from the project directory:
 
 ```bash
-python quizgame.py
+python QUIZ-GAME.py
 ```
 
 ## Project Structure
